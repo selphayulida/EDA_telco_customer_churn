@@ -43,4 +43,4 @@ The following are the EDA steps carried out in this project.
 3. Set deep-dive questions
    - Check the standard EDA results, whether there are interesting findings in the form of business insights that need to be further analyzed with data. Then write down these questions for further deep-dive analysis.
 4. Answer the questions and conclusion
-   - Further, preprocess/manipulate the data for answering the questions to get business insight related to customer churn.
+   - Further preprocess/manipulate the data for answering the questions to get business insight related to customer churn.
