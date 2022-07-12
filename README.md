@@ -1,0 +1,2 @@
+# EDA_telco_customer_churn
+In this repository, I perform Exploratory Data Analysis (EDA) on the Telco Customer Churn dataset with the aim of understanding customer churn behaviour in the Telcom Industry. By doing this analysis, it is hoped that it can bring up new insights about the tendency of customer churn so that companies can take particular strategies to retain their customers so as to increase customer lifetime value (CLV).
