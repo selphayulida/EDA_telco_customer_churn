@@ -30,3 +30,17 @@ This dataset consists of 7043 rows and 21 columns. The following is a descriptio
 19. MonthlyCharges: Shows the customer's current total monthly charges for all the services they use.
 20. TotalCharges: Shows the total cost of the customer
 21. Churn: Shows Customer churn status (Yes/ No).
+
+## EDA Steps
+The following are the EDA steps carried out in this project.
+1. Data Cleansing
+   - Column understanding
+   - Clean the data (Drop whitespace rows, check/work on missing values, check/work on duplicated values)
+2. Standard EDA
+   - Statistical summary of each column
+   - Univariate analysis
+   - Multivariate analysis
+3. Set deep-dive questions
+   - Check the standard EDA results, whether there are interesting findings in the form of business insights that need to be further analyzed with data. Then write down these questions for further deep-dive analysis.
+4. Answer the questions and conclusion
+   - Further, preprocess/manipulate the data for answering the questions to get business insight related to customer churn.
